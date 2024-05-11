@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABHIRAM-AP
 - 👀 I’m interested in Coding || Learning || Reading
-- 🌱 I’m currently learning C | Web Development
+- 🌱 I’m currently learning C | Frontend Development
 - 📫 How to reach me ...  
 - ⚡ Fun fact: ... Curious
 
