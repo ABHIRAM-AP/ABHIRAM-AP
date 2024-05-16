@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ABHIRAM-AP
+- 👋 Hi, I’m @Abhiram-A P
 - 👀 I’m interested in Coding || Learning || Reading
 - 🌱 I’m currently learning C | Frontend Development
 - 📫 How to reach me ...  
