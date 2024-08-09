@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhiram-A P
 - 👀 I’m interested in Coding || Learning || Reading || Evolving🧬
-- Learned JS | Basic Arduino 
+- Learned JS | Basic Arduino || Little bit of C++
 - 🌱 I’m currently learning Java | Frontend Development
 - 📫 How to reach me ...
 - https://www.linkedin.com/in/abhiram-a-p-980044284/
