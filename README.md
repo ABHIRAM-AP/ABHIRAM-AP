@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋,Myself ABHIRAM A.P</h1>
 <h3 align="center">"Tech fuels my passion beyond what any self-proclaimed tech enthusiast could understand—just like how Tony Stark’s vision and mind inspire me."</h3>
-<img align="middle" alt="tony" width="750" src ="https://www.icegif.com/wp-content/uploads/tony-stark-icegif-6.gif">
+<img align="middle" alt="tony" width="600" src ="https://www.icegif.com/wp-content/uploads/tony-stark-icegif-6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiram-ap&label=Profile%20views&color=0e75b6&style=flat" alt="abhiram-ap" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiram-ap" alt="abhiram-ap" /></a> </p>
@@ -14,7 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhiram-a-p-980044284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhiram-a-p-980044284/" height="30" width="40" /></a>
+<a
+            href="https://www.linkedin.com/in/abhiram-a-p-980044284/"
+            target="_blank"<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhiram-a-p-980044284/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/abhii0305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abhii0305/" height="30" width="40" /></a>
 </p>
 
