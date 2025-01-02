@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiram-ap" alt="abhiram-ap" /></a> </p>
 
-- 🌱 I’m currently learning **Java, DSA, Frontend Dev**
+- 🌱 I’m currently learning **Java, DSA**
 
 - 💬 Ask me about **C, JS, Physics, Universe**
 
