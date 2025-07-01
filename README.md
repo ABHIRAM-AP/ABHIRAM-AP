@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhiram A P</h1>
 <h3 align="center">Tech fuels my passion beyond what any self-proclaimed tech enthusiast could understand—just like how Tony Stark’s vision and mind inspire me.</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhiram-ap" alt="abhiram-ap" />
-  </a>
-</p>
+
 
 - 🌱 I’m currently learning **React, Bloc**
 - 💬 Ask me about **Flutter, C, Python, JS**
