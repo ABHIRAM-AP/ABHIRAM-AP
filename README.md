@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently learning Go and AI/ML<br>💬 Ask me about Flutter · C · Python · JavaScript · n8n<br>📫 Reach me at abhiramap05@gmail.com<br>⚡ Fun fact: My IDE is my arc reactor<br>
+🌱 Currently learning Golang and AI/ML<br>💬 Ask me about Flutter · C · Python · JavaScript · n8n · LangChain · LangGraph · DSA<br>📫 Reach me at abhiramap05@gmail.com<br>⚡ Fun fact: My IDE is my arc reactor<br>
 
 
 ## 🌐 Socials:
